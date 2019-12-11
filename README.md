@@ -1,4 +1,5 @@
-#Hyperblog
+# Hyperblog
+
 Un blog increible para el curso de Git y Github de Platzi
 > El curso de Git  y Git y Github de Platzi es lo que me hacia falta para triplicar mi salario :v y lanzarme a la industria de programacion :v :V
 > - niñita
