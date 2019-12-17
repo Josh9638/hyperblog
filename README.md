@@ -10,4 +10,5 @@ En este curso vemos de todo:
 * El verdadero amor para las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades multiples de Joshua :S
+* Creado por el increible Platzi Team
 
