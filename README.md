@@ -12,4 +12,5 @@ En este curso vemos de todo:
 * Las personalidades multiples de Joshua :S
 * Creado por el increible Platzi Team
 * incluye ejemplos en linux, windows y mac
+* Disponible para todas las edades
 
